@@ -9,5 +9,5 @@ https://cloud.google.com/sdk/docs/install
 
 ### To set the project property in the core section, run:
 ```
-gcloud config set project myProject
+gcloud config set project myIdProject
 ```
