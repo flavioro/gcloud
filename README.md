@@ -14,3 +14,10 @@ gcloud config set project myIdProject
 
 ### How to move an instance between two projects in Google Cloud Platform?
 https://stackoverflow.com/questions/54501141/how-to-move-an-instance-between-two-projects-in-google-cloud-platform
+
+
+### After Install Google Cloud SDK
+```
+gcloud init
+```
+
