@@ -2,6 +2,15 @@
 
 <img src="https://images.techhive.com/images/article/2014/08/google-cloud-platform-100371436-large.idge.png" width="450px">
 
+### Information about session
+```
+gcloud info
+```
+
+### About auth
+```
+gcloud auth list
+```
 
 https://woliveiras.com.br/posts/construindo-uma-api-com-nodejs-parte-4-subindo-uma-api-nodejs-no-google-cloud/
 
