@@ -3,9 +3,14 @@
 <img src="https://images.techhive.com/images/article/2014/08/google-cloud-platform-100371436-large.idge.png" width="450px">
 
 ### Cloud Storage (bucket (Intervalos) Upload files and downloads
-See configuration (URI da gsutil)
+See configuration (URI da gsutil), my pc to google cloud
 ```
 gsutil cp gcloud.txt gs://learn-web-coding/
+```
+
+### Google cloud (Storage) to my pc
+```
+gsutil cp gs://learn-web-coding/gcloud.txt gcloud2.txt
 ```
 
 ### Information about session
